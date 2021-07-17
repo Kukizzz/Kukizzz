@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kukizzz
 - 👀 I’m interested in Java, HTML, CSS, and Javascript
 - 🌱 I’m currently learning Java
-- 💞️ I'm currently learning Java. 
+- 💞️ Not interested in much now since I am still a beginner
